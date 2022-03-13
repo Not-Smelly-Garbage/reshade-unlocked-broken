@@ -1,5 +1,5 @@
 # reshade-unlocked-broken
-brokey
+brokey cuz im not technical and knows nothing
 
 line 91 on MainWindow.xaml.cs and line 682 in runtime.cpp
 
